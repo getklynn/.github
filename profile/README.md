@@ -108,4 +108,4 @@ Este proyecto es de código cerrado. El código fuente, el diseño del sistema (
 ---
 
 💬 **¿Quieres saber más o colaborar con nosotros?**  
-Actualmente nos encontramos en fase de validación de nuestro MVP funcional y pruebas piloto con partners comerciales. Si eres inversionista, socio estratégico o deseas conocer más sobre KLYNN AI, escríbenos a **[tu-correo@klynn.com]**.
+Actualmente nos encontramos en fase de validación de nuestro MVP funcional y pruebas piloto con partners comerciales. Si eres inversionista, socio estratégico o deseas conocer más sobre KLYNN AI, escríbenos a **contacto@getklynn.com**.
