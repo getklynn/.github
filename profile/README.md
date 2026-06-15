@@ -2,7 +2,7 @@
 > Plataforma tecnológica inteligente de automatización y gestión de servicios bajo demanda (on-demand).
 
 <p align="center">
-  <img width="815" height="803" alt="LOGO" src="https://github.com/user-attachments/assets/dd77cc39-faa5-4ebc-9ec7-3452af0085e1" />
+  <img width="415" height="403" alt="LOGO" src="https://github.com/user-attachments/assets/dd77cc39-faa5-4ebc-9ec7-3452af0085e1" />
 </p>
 
 KLYNN es un ecosistema tecnológico impulsado por Inteligencia Artificial avanzada diseñado para transformar la gestión operativa de servicios premium y de alta exigencia (como el sector hotelero, mantenimiento especializado y logística de respuesta inmediata). Actuando como un cerebro central inteligente, KLYNN automatiza decisiones en tiempo real, optimiza la asignación de recursos y conecta flujos de trabajo en cuestión de minutos, redefiniendo el estándar de velocidad, control y eficiencia.
